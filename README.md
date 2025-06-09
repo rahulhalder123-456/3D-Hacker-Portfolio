@@ -9,7 +9,7 @@ A modern [Next.js](https://nextjs.org) project, bootstrapped with [`create-next-
 Install dependencies first:
 
 ```bash
-npm install # install project dependencies
+ npm install --legacy-peer-deps # install project dependencies
 ```
 Start the development server:
 
